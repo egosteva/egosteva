@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Elena
-I'm QA Engineer
+### Привет! 👋 
+Я Елена и я QA инженер
 
 <!--
 **egosteva/egosteva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Technologies Stack
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egosteva&theme=algolia)
+
+## Технологический стек
  <p align="center">
 <img width="7%" title="Java" src="Java.svg">
 <img width="7%" title="IntelliJ IDEA" src="Intelij_IDEA.svg">
@@ -33,5 +35,9 @@ Here are some ideas to get you started:
 <img width="7%" title="Telegram" src="Telegram.svg">
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egosteva&theme=algolia)
+### Дипломный проект по автоматизации тестирования
+#### <a target="_blank" href="https://github.com/egosteva/final_project"> Проект UI автотестов
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egosteva&repo=final_project)](https://github.com/egosteva/final_project)
+ 
+ #### <a target="_blank" href="https://github.com/egosteva/reqres_api_tests"> Проект API автотестов
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egosteva&repo=reqres_api_tests)](https://github.com/egosteva/reqres_api_tests)
