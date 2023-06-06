@@ -1,5 +1,5 @@
 ### Привет! 👋 
-Я Елена и я QA инженер
+Я QA инженер
 
 <!--
 **egosteva/egosteva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <img width="7%" title="Java" src="Java.svg">
 <img width="7%" title="IntelliJ IDEA" src="Intelij_IDEA.svg">
 <img width="7%" title="Gradle" src="Gradle.svg">
-<img width="7%" title="JUnit5" src="Junit5.svg">
+<img width="7%" title="JUnit5" src="JUnit5.svg">
 <img width="7%" title="Selenide" src="Selenide.svg">
-<img width="7%" title="Rest Assured" src="RestAssured.svg">
+<img width="7%" title="RestAssured" src="RestAssured.svg">
 <img width="7%" title="Selenoid" src="Selenoid.svg"> 
 <img width="7%" title="Jenkins" src="Jenkins.svg">
 <img width="7%" title="Allure Report" src="Allure_Report.svg">
