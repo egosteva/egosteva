@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### Дипломный проект по автоматизации тестирования
 #### <a target="_blank" href="https://github.com/egosteva/final_project"> Проект UI автотестов для сайта [VK Company](https://vk.company/ru/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egosteva&repo=final_project&theme=algolia)](https://github.com/egosteva/final_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egosteva&repo=final_project&theme=solarized-light)](https://github.com/egosteva/final_project)
  
  #### <a target="_blank" href="https://github.com/egosteva/reqres_api_tests"> Проект API автотестов Для сайта [reqres.in](https://reqres.in/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egosteva&repo=reqres_api_tests&theme=algolia)](https://github.com/egosteva/reqres_api_tests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egosteva&repo=reqres_api_tests&theme=solarized-light)](https://github.com/egosteva/reqres_api_tests)
