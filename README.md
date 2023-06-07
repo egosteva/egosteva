@@ -1,5 +1,5 @@
 ### Привет! 👋 
-Я QA инженер
+Я Елена, QA инженер
 
 <!--
 **egosteva/egosteva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
